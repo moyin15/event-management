@@ -6,7 +6,11 @@ It allows students to register for events, view participant lists, and automatic
 The project also includes a search/filter function and a simulated confirmation email (no actual emails sent).
 
 ## Overview of the project
-
+ ** This project is an Event Management System designed to help organize and manage school or campus events. It allows users to 
+register for events, and lets the admin create, edit, and delete events. The system also helps keep track of participants and 
+makes sure that no event goes beyond its capacity.
+The project was developed using PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap. It was a group project aimed at learning how to
+build a functional Web application that handles real-world event registration and management tasks. 
 
 🔗 Group members, matric number and contribution
 ```markdown
